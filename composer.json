@@ -1,0 +1,20 @@
+{
+  "name": "jacerider/referenception",
+  "description": "Provides a field formatter for entity references that allows a list of formatters for target type to be used for entity reference fields.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/jacerider/referenception",
+  "authors": [
+    {
+      "name": "Cyle Carlson (JaceRider)",
+      "email": "jacerider@gmail.com",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/jacerider/referenception/issues",
+    "source": "https://github.com/jacerider/referenception"
+  },
+  "minimum-stability": "dev",
+  "require": { }
+}
